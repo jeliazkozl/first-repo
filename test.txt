@@ -1,3 +1,4 @@
+
 using System;
 
 namespace OddEvenSum
@@ -20,4 +21,3 @@ namespace OddEvenSum
             else Console.WriteLine("No diff {0}", Math.Abs(Odd - Even));
         }
     }
-}

@@ -6,6 +6,7 @@ namespace OddEvenSum
     {
         static void Main(string[] args)
         {
+            // pull with Bash
             var n = int.Parse(Console.ReadLine());
             var Odd = -0;
             var Even = -0;
